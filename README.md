@@ -1,7 +1,7 @@
-# SQL-DATA-CLEANING
+#  EXPLORITARY DATA ANALYSIS (single table)
 
 # 🎯 Project Objective
-Transform a raw laptop dataset into a clean, structured, and analysis-ready format. Apply data cleaning, formatting, and normalization techniques using SQL. Prepare data for insights like brand comparisons, pricing analysis, and hardware trends.
+Transform a raw laptop dataset into a clean, structured, and analysis-ready format. Apply data cleaning, formatting, and normalization techniques using SQL. perform exploritary data analysis using concepts like (select,where,gruoup by,order by,aggregation function,windows finction)
 
 # 🛠 Tools & Technologies
 
@@ -59,4 +59,21 @@ Applied best practices in SQL-based data cleaning:
 
 • Normalization
 
-Dataset is now usable for BI dashboards, data analysis, and trend insights
+# (EDA) conducted 
+
+> select
+
+> where
+
+>group by
+
+> having
+
+>order by
+
+> aggregation function
+
+> windows function 
+
+
+Dataset is now usable for BI dashboards and trend insights
